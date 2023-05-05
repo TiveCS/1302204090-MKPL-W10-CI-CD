@@ -1,0 +1,4 @@
+name: QuailMail
+version: '${project.version}'
+main: io.github.tivecs.quailmail.QuailMail
+api-version: 1.19
