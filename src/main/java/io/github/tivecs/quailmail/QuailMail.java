@@ -8,7 +8,7 @@ public final class QuailMail extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-        Bukkit.getLogger().info(5);
+        Bukkit.getLogger().info("String baru");
     }
 
     @Override
